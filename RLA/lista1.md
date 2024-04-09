@@ -31,10 +31,10 @@ DECLARE numero, resto: INTEIRO
 
 INICIO
 
-    // Insira seu comentário
+    // Exibe uma mensagem na tela
     ESCREVA "Digite um número: "
     
-    // Insira seu comentário
+    // Armazena o valor de entrada na variável 'numero''
     LEIA numero
     
     // Insira seu comentário
