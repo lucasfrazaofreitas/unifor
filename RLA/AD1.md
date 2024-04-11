@@ -301,15 +301,14 @@ INICIO
 
         FIM_ENQUANTO
 
+        // Insira seu comentário
+        ESCREVA "A soma dos numeros é , soma"
+
     // Insira seu comentário
     SENAO
         "O valor deve ser maior ou igual a zero!"
 
     FIM_SE
-
-    // Insira seu comentário
-    ESCREVA "A soma dos numeros é , soma"
-
 FIM
 ```
 
