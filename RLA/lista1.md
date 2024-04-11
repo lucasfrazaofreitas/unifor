@@ -54,7 +54,7 @@ INICIO
         FIM_SE
 
     // Insira seu comentário
-    SENAO             
+    SENAO        
         ESCREVA "O número deve ser postivo!"
 
     FIM_SE
