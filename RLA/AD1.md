@@ -258,8 +258,8 @@ G --FALSE--> L{{"A soma dos numeros é , soma"}}
 L --> M
 G --TRUE--> H{{Digite um número: }}
 H --> I[\num\]
-I --> J[soma =+ num]
-J --> K[i =+ 1]
+I --> J[soma = soma + num]
+J --> K[i = i + 1]
 K --LOOP--> G
 ```
 
