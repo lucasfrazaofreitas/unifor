@@ -37,7 +37,7 @@ INICIO
     // Armazena o valor de entrada na variável 'numero''
     LEIA numero
     
-    // Insira seu comentário
+    // 
     SE numero >= 0 ENTAO
 
         // Insira seu comentário
