@@ -282,7 +282,7 @@ INICIO
         soma <- 0
 
         // Insira seu comentário
-        i <- i
+        i <- 1
 
         // Insira seu comentário
         ENQUANTO i <= n FAÇA
