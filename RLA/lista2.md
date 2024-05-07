@@ -28,13 +28,13 @@ DECLARE  sal, sal_reaj: real, prof: caractere
 
 INICIO
 
-    // Insira seu comentário
+    // Mostra o salário e a profissão da pessoa.
     LEIA sal, prof
 
-    // Insira seu comentário
+    // Permite a seleção do salário ou profissão para ser vista.
     ESCOLHA
 
-        // Insira seu comentário
+        // 
         CASO prof == “Técnico”		
             sal_reaj ← 1.5 * sal
 
